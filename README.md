@@ -7,12 +7,13 @@
 
 ## Blocklist Used
 HaGeZi's Pro++ Blocklist
-``https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt``
+
+   ``https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt``
 
 ## How to Use
 1. Add this raw URL to **AdGuard Home** → **Filters** → **DNS allowlists**
-   ``https://raw.githubusercontent.com/phantasm22/AdGuard-AllowList/main/allowlist.txt``
-3. Enable → Save
+``https://raw.githubusercontent.com/phantasm22/AdGuard-AllowList/main/allowlist.txt``
+2. Save → Enable
 
 ## Auto-Updates
 This file is version-controlled. Edit → commit → AdGuard updates automatically.
