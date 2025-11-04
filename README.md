@@ -6,7 +6,8 @@
 - **NBC Sports, Peacock, Hulu, Disney+, YouTube, Prime Video, HBO Max, Philo, Tubi, etc.**
 
 ## Blocklist Used
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+HaGeZi's Pro++ Blocklist
+``https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt``
 
 ## How to Use
 1. Add this raw URL to **AdGuard Home** → **Filters** → **DNS allowlists**
