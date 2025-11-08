@@ -15,12 +15,12 @@ HaGeZi's Pro++ Blocklist
 2. Save → Enable
 3. Add this raw URL to **AdGuard Home** → **Filters** → **DNS allowlists**
    
-   ``https://raw.githubusercontent.com/phantasm22/AdGuard-Lists/main/allowlist.txt``
+   ``https://raw.githubusercontent.com/phantasm22/AdGuardHome-Lists/main/allowlist.txt``
 
 5. Save → Enable
 6. Add this raw URL to **AdGuard Home** → **Filters** → **DNS blocklists**
 
-   ``https://raw.githubusercontent.com/phantasm22/AdGuard-Lists/main/blocklist.txt``
+   ``https://raw.githubusercontent.com/phantasm22/AdGuardHome-Lists/main/blocklist.txt``
 
 7. Save → Enable
    
