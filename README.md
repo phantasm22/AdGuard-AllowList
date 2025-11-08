@@ -1,4 +1,4 @@
-# AdGuard Allow-List (HaGeZi Pro++)
+# AdGuard Lists (HaGeZi Pro++)
 
 **Optimized for:**
 - **Echo Show** (100% ad-free)
@@ -11,12 +11,18 @@ HaGeZi's Pro++ Blocklist
    ``https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt``
 
 ## How to Use
-1. Add this raw URL to **AdGuard Home** → **Filters** → **DNS allowlists**
-``https://raw.githubusercontent.com/phantasm22/AdGuard-AllowList/main/allowlist.txt``
+1. Add HaGeZi's Pro++ Blocklist to AdGuardHome
 2. Save → Enable
+3. Add this raw URL to **AdGuard Home** → **Filters** → **DNS allowlists**
+``https://raw.githubusercontent.com/phantasm22/AdGuard-Lists/main/allowlist.txt``
+4. Save → Enable
+5. Add this raw URL to **AdGuard Home** → **Filters** → **DNS blocklists**
+``https://raw.githubusercontent.com/phantasm22/AdGuard-Lists/main/blocklist.txt``
+6. Save → Enable
+   
 
 ## Auto-Updates
-This file is version-controlled. Edit → commit → AdGuard updates automatically.
+These files are version-controlled. Edit → commit → AdGuard updates automatically.
 
 ---
 **Maintained by phantasm22** | Last updated: November 2025
