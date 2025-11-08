@@ -1,4 +1,4 @@
-# AdGuard Block and Allow lists for use with HaGeZi Pro++
+# AdGuardHome Block and Allow lists for use with HaGeZi Pro++
 
 **Optimized for:**
 - **Echo Show** (100% ad-free)
