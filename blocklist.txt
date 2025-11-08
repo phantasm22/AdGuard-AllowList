@@ -1,0 +1,9 @@
+# === 2025 ALEXA AD FIXES (New variants HaGeZi misses) ===
+||det-ta-g7g.amazon.com^                   # Task-based ads ("By the way...")
+||cdn.beta.adskit.juno.alexa.amazon.dev^   # Ad kit beta (sponsored content)
+||mlis.amazon.com^                         # Media list suggestions
+||mmechocaptiveportal.com^                 # Captive portal ads (force block)
+||arcus-uswest.amazon.com^                 # Location-based suggestions ("By the way...")
+||unagi-na.amazon.com^                     # Main ad engine (home screen banners)
+||dcape-na.amazon.com^                     # "Discover" voice tips
+||todo-ta-g7g.amazon.com^                  # Promotional tasks ("Try saying...")
