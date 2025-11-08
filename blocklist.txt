@@ -2,19 +2,27 @@
 
 # Task-based ads ("By the way...")
 ||det-ta-g7g.amazon.com^
+
 # Ad kit beta (sponsored content)
 ||cdn.beta.adskit.juno.alexa.amazon.dev^
+
 # Media list suggestions
 ||mlis.amazon.com^
+
 # Captive portal ads (force block)
-||mmechocaptiveportal.com^                 
+||mmechocaptiveportal.com^
+
 # Location-based suggestions ("By the way...")
-||arcus-uswest.amazon.com^                 
+||arcus-uswest.amazon.com^
+
 # Main ad engine (home screen banners)
-||unagi-na.amazon.com^                     
+||unagi-na.amazon.com^
+
 # "Discover" voice tips
-||dcape-na.amazon.com^                     
+||dcape-na.amazon.com^
+
 # Promotional tasks ("Try saying...")
-||todo-ta-g7g.amazon.com^                  
+||todo-ta-g7g.amazon.com^
+
 # Ad CDN (specific subdomain)
-||d2zprwa9w8uwyf.cloudfront.net^           
+||d2zprwa9w8uwyf.cloudfront.net^
