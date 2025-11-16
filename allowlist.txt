@@ -31,6 +31,9 @@
 # Walmart Customer Spark Survey Response
 @@||walmart2.surveyfiles.com^
 
+# Zoho Forms
+@@||zfrmz.com^
+
 
 # === STREAMING CDN / ANALYTICS FIXES (Required for HaGeZi Pro++) ===
 
